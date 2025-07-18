@@ -49,3 +49,14 @@ is, most AI tools today actually are able to produce high quality graphics, but 
 media forms, like cartoons with Family Guy, or Beevis and Butthead. Both hilarious shows but, AI can't necessarily replicate that, and I want 
 my software to precisely replicate my most inspired video games with artforms. So yeah, I have to chip away at this, but first step is to remove
 bloatware.
+
+Update #4 - System Maintenance
+
+Alright, so regarding the APK file. I need to specifically program it so that the APK will communicate with the GPU that the word prompts written
+by the user will particularly generate graphics. Usually, if I was lazy and simple, I'd just program an AI-tool and slap it on the device, but I
+don't want that. Why? Because I want a specific technology that can replicate graphics duplicated from previous history. For example, if I want
+to type a prompt into my phone that says, 'Hey, make me a short film using Minecraft' graphics, it needs to be able to do that. And I mean a 'short'
+film, so far, I don't know if any AI tool even does that. So we'll see, but yeah, this is one of those 'big brain' projects, but I highly doubt
+it'll be so stressful. As for the programming language, I'm likely going to use Python3, and maybe I'll start off by making one prompt, and one
+tiny little engine where I can write basic commands like 'Hi, make me a spinning cube', and go from there. It would be so nice if the cube can
+dance to a song, I don't know how the hell I'll do that but, we'll get there. 
