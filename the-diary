@@ -59,4 +59,17 @@ to type a prompt into my phone that says, 'Hey, make me a short film using Minec
 film, so far, I don't know if any AI tool even does that. So we'll see, but yeah, this is one of those 'big brain' projects, but I highly doubt
 it'll be so stressful. As for the programming language, I'm likely going to use Python3, and maybe I'll start off by making one prompt, and one
 tiny little engine where I can write basic commands like 'Hi, make me a spinning cube', and go from there. It would be so nice if the cube can
-dance to a song, I don't know how the hell I'll do that but, we'll get there. 
+dance to a song, I don't know how the hell I'll do that but, we'll get there.
+
+Update #5 - Color Theory
+
+So, considering how complex and beyond my knowledge this project is, I still have hopes I can make something of it. Even if it doesn't work out,
+I can still direct the project into a different one and so on. Anyways, regardless, I've been thinking about how I can write a word prompt that,
+once gone through an AI-based system of some sort, can generate colors over the objects that I plan on using within the engine. All of that just
+sounded like a bunch of bogus, so I'll explain it a bit simpler. I've decided that, maybe I should just take 3D objects (cubes, spheres, pyramids, etc.),
+and simply just insert it into a graphics engine where the object can let's say, turn into different colors in the RGB range. I need to figure out a 
+way for my system to actually take an input of words, string them together, and copy a whole range of produced methods together to actually generate
+what I want. So if I say, 'Make the cube spin while changing colors from red to green', the engine should say, 'Okay, he wants it to spin, so let's
+register that function, and he wants to change the colors too, so let's register that also', and so on and so forth. I figured, if I start simple
+with a project, I can build on it from there, and so on. Okay, I'll come back with more updates, I'm still in the process of removing bloatware
+from this phone.
